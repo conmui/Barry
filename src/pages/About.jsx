@@ -45,14 +45,15 @@ function About() {
           four seasons of Barry were nominated for the Primetime Emmy Award for
           Outstanding Comedy Series.
         </p>
+
+        <img
+          className="About__image"
+          src="/poster.jpg"
+          alt="bill hader as Barry behind a stage curtain holding a gun"
+        />
+
         <Logo />
       </section>
-
-      <img
-        className="About__image"
-        src="/poster.jpg"
-        alt="bill hader as Barry behind a stage curtain holding a gun"
-      />
     </main>
   );
 }

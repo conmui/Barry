@@ -1,8 +1,20 @@
-# React + Vite
+## Barry
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A [fan website](https://elaborate-biscuit-0fa4e1.netlify.app/) for the TV show Barry, featuring information about the show, main characters, and a full episode list. 
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive Design: Adapts to different screen sizes, including mobile, tablet, and desktop views
+- Single Page Application (SPA): Uses React Router for seamless navigation without page reloads
+- Hover Effects: Interactive elements for an enhanced user experience
+- Dynamic Content: 'Characters' and 'Episodes' pages display data dynamically using React state and components
+
+![Screenshots](./screenshots.png)
+
+_from left to right: mobile, tablet, desktop_
+
+## Used
+
+- HTML
+- CSS
+- JavaScript ReactJS
