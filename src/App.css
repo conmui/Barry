@@ -19,7 +19,12 @@
   margin: 1rem 0;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1400px) {
+  .App {
+    margin: auto;
+    max-width: 70rem;
+  }
+
   .App__nav-list {
     gap: 3rem;
     margin: 1rem 0;
